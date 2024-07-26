@@ -1,0 +1,17 @@
+C:\Users\serdar\source\repos\YouTubeApp\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\serdar\source\repos\YouTubeApp\Business\bin\Debug\net8.0\Business.dll
+C:\Users\serdar\source\repos\YouTubeApp\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\serdar\source\repos\YouTubeApp\Business\bin\Debug\net8.0\Core.dll
+C:\Users\serdar\source\repos\YouTubeApp\Business\bin\Debug\net8.0\Data.dll
+C:\Users\serdar\source\repos\YouTubeApp\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\serdar\source\repos\YouTubeApp\Business\bin\Debug\net8.0\Core.pdb
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\Business.dll
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\serdar\source\repos\YouTubeApp\Business\obj\Debug\net8.0\ref\Business.dll
